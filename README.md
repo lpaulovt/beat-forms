@@ -27,6 +27,11 @@
     <img alt="Beat forms thumb" src="./src/assets/Thumb.jpg" />
 </h1>
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1PeZn9UplAAZEpa-4x_-jNAep-NCxgig3/view?usp=sharing" target="_blank">
+    <img alt="Download Apk on Drive" src="./src/assets/apk-drive.svg">
+  </a>
+</p>
 ## :rocket: Technologies
 
 This project was developed with the with the following technologies:
