@@ -3,17 +3,17 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lpaulovt/travel-app.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lpaulovt/beat-forms.svg">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lpaulovt/travel-app.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lpaulovt/beat-forms.svg">
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lpaulovt/travel-app.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lpaulovt/beat-forms.svg">
 
-  <a href="https://github.com/lpaulovt/travel-app/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/lpaulovt/travel-app.svg">
+  <a href="https://github.com/lpaulovt/beat-forms/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/lpaulovt/beat-forms.svg">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/lpaulovt/travel-app.svg"> 
+  <img alt="GitHub" src="https://img.shields.io/github/license/lpaulovt/beat-forms.svg"> 
 </p>
 
 <p align="center">
@@ -52,10 +52,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/lpaulovt/travel-app.git
+$ git clone https://github.com/lpaulovt/beat-forms.git
 
 # Go into the repository
-$ cd travel-app
+$ cd beat-forms
 
 # Install dependencies
 $ yarn install
